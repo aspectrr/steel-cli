@@ -2,6 +2,8 @@
 
 The CLI for Steel.dev
 
+[![Steel.dev CLI Demo](https://img.youtube.com/vi/LSVBa3Jb0AI/0.jpg)](https://www.youtube.com/watch?v=LSVBa3Jb0AI)
+
 ## Install
 
 ```bash
